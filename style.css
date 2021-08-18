@@ -1,9 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  body {
+   body {
     /*background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);*/
     background-image: url("https://images.unsplash.com/photo-1510851896000-498520af2236?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1649&q=80");
     color: white;
