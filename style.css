@@ -75,7 +75,7 @@
     border: none;
     padding: 16px;
     cursor: pointer;
-    font-size: 16pxrem;
+    font-size: 16px;
   }
   .complete-btn {
     background: rgb(86, 169, 54);
@@ -90,7 +90,7 @@
   }
   
   .fall {
-    transform: translateY(10rem) rotateZ(20deg);
+    transform: translateY(80px) rotateZ(20deg);
     opacity: 0;
   }
   
